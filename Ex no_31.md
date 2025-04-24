@@ -1,4 +1,4 @@
-# EX 36 C program to find the smallest among three numbers using Structure.
+# EX 31 C program to find the smallest among three numbers using Structure.
 ## DATE:
 ## AIM:
 To write a C program to find the smallest among three numbers using Structure.
